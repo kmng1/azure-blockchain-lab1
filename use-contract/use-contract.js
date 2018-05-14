@@ -1,7 +1,7 @@
 var Web3 = require("web3");
 
 var AzureBlockchainRPC = "http://labqnw-dns-reg1.southeastasia.cloudapp.azure.com:8545";
-var account1 = "ACCOUNT1_ADDRESS";
+var account1 = "0x37b79896Fdd14d045997226feE7865Fa8aB832f3";
 var contractAddress = "CONTRACT_ADDRESS";
 
 let web3 = new Web3();
